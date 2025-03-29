@@ -38,7 +38,7 @@ IP-CIDR,64.23.132.171/32,no-resolve
 
 # GEMINI
 DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,clients6.google.com
 # vertext AI
 DOMAIN,cloudconsole-pa.clients6.google.com
 DOMAIN,makersuite.google.com
@@ -68,6 +68,11 @@ DOMAIN-KEYWORDS,grok
 # Others
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORDS,cici
+DOMAIN-KEYWORD,zed
+DOMAIN-KEYWORD,huggingface
 
 # Airport test
 DOMAIN-SUFFIX,ping0.cc
+
+# LLM Vendors
+DOMAIN-SUFFIX,openrouter.ai
