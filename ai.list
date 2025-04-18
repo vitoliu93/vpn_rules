@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,cici
 DOMAIN-KEYWORD,zed
 DOMAIN-KEYWORD,huggingface
+# Google products
 DOMAIN-KEYWORD,notebooklm
 
 # Airport test
