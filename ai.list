@@ -72,6 +72,8 @@ DOMAIN-KEYWORD,zed
 DOMAIN-KEYWORD,huggingface
 # Google products
 DOMAIN-KEYWORD,notebooklm
+# Brave Search
+DOMAIN-SUFFIX,brave.com
 
 # Airport test
 DOMAIN-SUFFIX,ping0.cc
