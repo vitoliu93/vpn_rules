@@ -68,8 +68,9 @@ DOMAIN-KEYWORDS,grok
 # Others
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORDS,cici
-DOMAIN-KEYWORD,zed
-DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORDS,zed
+DOMAIN-KEYWORDS,huggingface
+DOMAIN-KEYWORDS,notebooklm
 
 # Airport test
 DOMAIN-SUFFIX,ping0.cc
