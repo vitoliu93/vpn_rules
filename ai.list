@@ -74,6 +74,7 @@ DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,notebooklm
 # Brave Search
 DOMAIN-SUFFIX,brave.com
+DOMAIN-KEYWORD,augmentcode
 
 # Airport test
 DOMAIN-SUFFIX,ping0.cc
