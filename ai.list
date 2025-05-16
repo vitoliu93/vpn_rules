@@ -70,7 +70,8 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,cici
 DOMAIN-KEYWORD,zed
 DOMAIN-KEYWORD,huggingface
-DOMAIN-KEYWORD,windsurf
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
 # Google products
 DOMAIN-KEYWORD,notebooklm
 # Brave Search
