@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeium.com
 # Google products
 DOMAIN-KEYWORD,notebooklm
+DOMAIN,jules.google.com
 # Brave Search
 DOMAIN-SUFFIX,brave.com
 DOMAIN-KEYWORD,augmentcode
