@@ -39,6 +39,7 @@ IP-CIDR,64.23.132.171/32,no-resolve
 # GEMINI
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-KEYWORD,antigravity
 # vertext AI
 DOMAIN,cloudconsole-pa.clients6.google.com
 DOMAIN,makersuite.google.com
