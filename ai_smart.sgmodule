@@ -2,11 +2,5 @@
 #!desc=自动筛选日本或美国节点用于 AI 服务
 #!system=macOS
 
-[Proxy Group]
-# 为正则加上双引号，确保特殊字符被正确解析
-🤖 AI-Smart = url-test, policy-regex-filter="(?i)(日本|美国|Japan|US|United States)", url=http://cp.cloudflare.com/generate_204, interval=300, tolerance=50, include-all-proxies=true
-
 [Rule]
-# 修正了 URL，去掉了 refs/heads/
-# RULE-SET,https://raw.githubusercontent.com/vitoliu93/vpn_rules/main/ai_rule.conf,🤖 AI-Smart
 RULE-SET,https://ruleset.skk.moe/List/non_ip/sogouinput.conf,REJECT
