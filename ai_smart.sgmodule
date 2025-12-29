@@ -1,6 +1,0 @@
-#!name=AI Smart Policy
-#!desc=自动筛选日本或美国节点用于 AI 服务
-#!system=macOS
-
-[Rule]
-RULE-SET,https://ruleset.skk.moe/List/non_ip/sogouinput.conf,REJECT
