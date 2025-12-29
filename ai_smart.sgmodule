@@ -1,0 +1,13 @@
+#!name=AI Smart Policy
+#!desc=自动筛选日本或美国节点用于 AI 服务
+#!system=macOS
+
+[Proxy Group]
+# 策略类型：url-test (即 Smart 策略，自动选择延迟最低的节点)
+# 筛选规则：通过正则匹配包含 "日本" 或 "美国" 的节点
+# 来源：include-all-proxies=true 表示从所有订阅的节点中筛选
+🤖 AI-Smart = url-test, policy-regex-filter=日本|美国, url=http://cp.cloudflare.com/generate_204, interval=300, tolerance=50, include-all-proxies=true
+
+[Rule]
+# 引用远程规则集，并强制指定使用上面的 🤖 AI-Smart 策略组
+RULE-SET,https://raw.githubusercontent.com/vitoliu93/vpn_rules/refs/heads/main/ai.list,🤖 AI-Smart
