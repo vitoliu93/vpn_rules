@@ -1,0 +1,48 @@
+# OpenAI
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-KEYWORD,openai
+
+# GEMINI & Google AI
+DOMAIN,ai.google.dev
+DOMAIN,jules.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,notebooklm
+
+# Anthropic (Claude)
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Grok (Fixed)
+DOMAIN-SUFFIX,grok.com
+DOMAIN-KEYWORD,grok
+
+# Coding AI (Copilot/Cursor/Windsurf etc)
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,supermaven.com
+DOMAIN-KEYWORD,augmentcode
+
+# Others
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,groq
+DOMAIN-SUFFIX,brave.com
