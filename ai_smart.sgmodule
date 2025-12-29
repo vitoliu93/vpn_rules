@@ -8,4 +8,5 @@
 
 [Rule]
 # 修正了 URL，去掉了 refs/heads/
-RULE-SET,https://raw.githubusercontent.com/vitoliu93/vpn_rules/main/ai_rule.conf,🤖 AI-Smart
+# RULE-SET,https://raw.githubusercontent.com/vitoliu93/vpn_rules/main/ai_rule.conf,🤖 AI-Smart
+RULE-SET,https://ruleset.skk.moe/List/non_ip/sogouinput.conf,REJECT
