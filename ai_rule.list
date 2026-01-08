@@ -66,6 +66,10 @@ DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,supermaven.com
 DOMAIN-KEYWORD,augmentcode
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-KEYWORD,cursor
 
 # Others
 DOMAIN-SUFFIX,perplexity.ai
