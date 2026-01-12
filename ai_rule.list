@@ -52,6 +52,7 @@ PROCESS-NAME,Antigravity
 PROCESS-NAME,Antigravity Helper
 PROCESS-NAME,language_server_macos
 DOMAIN-KEYWORD,antigravity
+DOMAIN-SUFFIX,googleapis.com
 
 # Anthropic
 DOMAIN-SUFFIX,anthropic.com
