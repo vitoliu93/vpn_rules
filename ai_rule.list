@@ -51,6 +51,7 @@ DOMAIN-KEYWORD,notebooklm
 PROCESS-NAME,Antigravity
 PROCESS-NAME,Antigravity Helper
 PROCESS-NAME,language_server_macos
+DOMAIN-KEYWORD,antigravity
 
 # Anthropic
 DOMAIN-SUFFIX,anthropic.com
