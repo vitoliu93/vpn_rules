@@ -81,5 +81,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,groq
+DOMAIN-SUFFIX,cerebras.ai
+DOMAIN-KEYWORD,cerebras
 DOMAIN-SUFFIX,brave.com
 DOMAIN-KEYWORD,augmentcode
