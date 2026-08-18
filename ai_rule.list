@@ -47,9 +47,6 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,notebook.google.com
-DOMAIN-SUFFIX,notebook.google
-DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,gstatic.com
