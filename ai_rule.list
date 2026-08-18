@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,notebook.google
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,notebooklm
 PROCESS-NAME,Antigravity
