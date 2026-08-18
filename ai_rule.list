@@ -46,14 +46,18 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,notebook.google.com
+DOMAIN-SUFFIX,notebook.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,notebooklm
 PROCESS-NAME,Antigravity
 PROCESS-NAME,Antigravity Helper
 PROCESS-NAME,language_server_macos
 DOMAIN-KEYWORD,antigravity
-DOMAIN-SUFFIX,googleapis.com
 
 # Anthropic
 DOMAIN-SUFFIX,anthropic.com
